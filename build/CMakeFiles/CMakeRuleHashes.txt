@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+eb924ac9140630168f767a26506cc384 CMakeFiles/freeorionversion
+7e74dc525d7da22d5617b6968f0e084e check/CMakeFiles/check-cpp
+b1f9d09c014d2f8a3557236e14036862 check/CMakeFiles/check-pep8
+6b962568da892065ef5e80396d484d66 doc/CMakeFiles/cpp-apidoc
